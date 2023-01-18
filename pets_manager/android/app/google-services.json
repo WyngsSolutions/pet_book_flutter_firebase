@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6854871073",
+    "project_id": "petsbook-839aa",
+    "storage_bucket": "petsbook-839aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6854871073:android:90721fcd4639702204bb60",
+        "android_client_info": {
+          "package_name": "com.kv.petsbook.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6854871073-ovq3gulvmeg18c5ggcc7vgh1tloqlhfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD85-CoH6745xeqB1YBwkoSttkjYEpD8SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6854871073-ovq3gulvmeg18c5ggcc7vgh1tloqlhfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
